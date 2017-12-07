@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-
+title: welcome to world of wasim
+description : you are free to stay here as long as you want
 You can use the [editor on GitHub](https://github.com/wasimgithub2017/firstgithub.pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
